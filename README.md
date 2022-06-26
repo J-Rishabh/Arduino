@@ -28,5 +28,8 @@ Take the folder that you need from the repository.
 # MapMaker
 > The Sonar Scanner & Map Maker using Arduino. [Github Repository](https://github.com/J-Rishabh/Arduino/tree/master/MapMaker)
 
+## Demo
+![mapmaker pic](MapMaker/Pictures/MapMakerSetup.jpg)
+
 # SpeedOfSound
 > Basic use of ultrasonic sensor to calculate the speed of sound. [Github Repository](https://github.com/J-Rishabh/Arduino/tree/master/SpeedOfSound)
