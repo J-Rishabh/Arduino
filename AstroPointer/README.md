@@ -15,7 +15,7 @@
 
 ## About 
 For my AP Physics C final project, I created a laser pointer that will auto-track to the given astronomical object. The laser diode is mounted to two stepper motors to give control over altitude and azimuth. Details about the hardware setup and libraries involved are below.
-Here is the [Github Repository](https://github.com/J-Rishabh/Arduino/tree/master/MapMaker) including code, videos, and pictures. 
+Here is the [Github Repository](https://github.com/J-Rishabh/Arduino/tree/master/AstroPointer) including code, videos, and pictures. 
 Here is a demo [video](https://youtu.be/aVy9g_HJ3FI)!
 
 ## Installation
@@ -48,7 +48,7 @@ Take the folder that you need from the repository.
 
 
 
-## Software Built With
+## Software
  - Arduino IDE
     - AccelStepper.h library
  - Python
@@ -62,7 +62,7 @@ Take the folder that you need from the repository.
 
 ### Code
  - [Arduino Code](https://github.com/J-Rishabh/Arduino/blob/master/AstroPointer/AstroPointerArduino.ino) (based on https://forum.arduino.cc/t/serial-input-basics-updated/382007/3)
- - [Application](https://github.com/J-Rishabh/Arduino/blob/master/AstroPointer/Application.py)
+ - [Application](https://github.com/J-Rishabh/Arduino/blob/master/AstroPointer/application.py)
  - [SerialControl](https://github.com/J-Rishabh/Arduino/blob/master/AstroPointer/serialcontrol.py)
 
 ## Assembly
